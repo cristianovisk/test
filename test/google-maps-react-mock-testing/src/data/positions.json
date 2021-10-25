@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 960,
+        "FACILITYID": 28014,
+        "ADDRESS": "Rua Francisco Oliveira de Almeida, Eusébio, CE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.7915048126179163, -38.52786706024402]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 960,
+        "FACILITYID": 28014,
+        "ADDRESS": "Avenida Monte Sinai, Parque dois Irmăos, Fortaleza, CE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.808631, -38.548932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 960,
+        "FACILITYID": 28014,
+        "ADDRESS": "Av.Independência, Fortaleza, CE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.7260702, -38.5949732]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 960,
+        "FACILITYID": 28014,
+        "ADDRESS": "Avenida João Pessoa, Fortaleza, CE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.7573235, -38.5538137]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 960,
+        "FACILITYID": 28014,
+        "ADDRESS": "Jacarecanga, Fortaleza, CE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.7241445, -38.5714896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 960,
+        "FACILITYID": 28014,
+        "ADDRESS": "Dom Lustosa, Fortaleza, CE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.7523134, -38.5969194]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 960,
+        "FACILITYID": 28014,
+        "ADDRESS": "Serrinha, Fortaleza, CE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.7730774, -38.5492596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": 960,
+        "FACILITYID": 28014,
+        "ADDRESS": "Parquelândia, Fortaleza, CEs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.7372538, -38.5676198]
+      }
+    }
+  ]
+}
